@@ -1,0 +1,9 @@
+[submodule "src/external/crowddiff"]
+	path = src/external/crowddiff
+	url = https://github.com/dylran/crowddiff.git
+[submodule "src/external/FF-guided-NeuralCC"]
+	path = src/external/FF-guided-NeuralCC
+	url = https://github.com/hanebarla/FF-guided-NeuralCC.git
+[submodule "src/external/CrowdVLM-R1"]
+	path = src/external/CrowdVLM-R1
+	url = https://github.com/yeyimilk/CrowdVLM-R1.git
