@@ -1,9 +1,15 @@
 [submodule "src/external/crowddiff"]
 	path = src/external/crowddiff
 	url = https://github.com/dylran/crowddiff.git
+	ignore = dirty
 [submodule "src/external/FF-guided-NeuralCC"]
 	path = src/external/FF-guided-NeuralCC
 	url = https://github.com/hanebarla/FF-guided-NeuralCC.git
+	ignore = dirty
 [submodule "src/external/CrowdVLM-R1"]
 	path = src/external/CrowdVLM-R1
 	url = https://github.com/yeyimilk/CrowdVLM-R1.git
+	ignore = dirty
+[submodule "src/external/VLM-R1"]
+	path = src/external/VLM-R1
+	url = https://github.com/om-ai-lab/VLM-R1.git
