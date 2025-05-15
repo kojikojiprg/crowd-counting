@@ -13,3 +13,4 @@
 [submodule "src/external/VLM-R1"]
 	path = src/external/VLM-R1
 	url = https://github.com/om-ai-lab/VLM-R1.git
+	ignore = dirty
